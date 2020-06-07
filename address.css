@@ -1,0 +1,24 @@
+.contactFields {
+  display: flex;
+  flex-direction: column;
+}
+
+#saveEntry {
+  margin: 0.5em;
+}
+
+.contact {
+  border: 1px dotted black;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.contact__name {
+  margin: 0;
+}
+
+.contact__address {
+  margin: 0;
+}
